@@ -49,4 +49,4 @@ Ranking | AP Poll | USA Today
 * Texas Tech
 * Michigan St.
 
-Source for rankings at [espn] (http://www.espn.com/college-football/rankings)
+Source for rankings at [espn](http://www.espn.com/college-football/rankings)
